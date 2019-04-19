@@ -9,7 +9,7 @@ An IDE for making Apple apps. (iOS, macOS and tvOS)
 ![alt text](https://matteomanferdini.com/wp-content/uploads/2018/01/The-first-cell-the-static-table-view-in-the-Xcode-storyboard.png "Xcode workspace")
 ### + Swift has concepts from C-family (easy to learn)  
 ![alt text](https://docs.gimbal.com/images/viewControllerSwift.png "Swift Example")
-### + Most of the time it's necessary for making Apple apps. (Example unity)
+### + Most of the time it's necessary for making Apple apps. (Example unity) 
 
 ## Cons
 ### - You need macOS to install Xcode.
@@ -17,5 +17,6 @@ An IDE for making Apple apps. (iOS, macOS and tvOS)
 
 ## Conclusion
 It's very useful and even necessary for developing Apple apps.  
-We won't use it for now because it lacks compatibility.
+We won't use it for now because it lacks compatibility.  
+
 
