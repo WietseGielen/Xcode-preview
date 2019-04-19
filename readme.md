@@ -1,5 +1,5 @@
 # *Xcode IDE preview*
-<p align="center"><img src="https://findicons.com/files/icons/727/leopard/128/xcode.png"></p>  
+<p align="center"><img src="https://findicons.com/files/icons/727/leopard/128/xcode.png"><img src="https://findicons.com/files/icons/727/leopard/128/xcode.png"><img src="https://findicons.com/files/icons/727/leopard/128/xcode.png"><img src="https://findicons.com/files/icons/727/leopard/128/xcode.png"><img src="https://findicons.com/files/icons/727/leopard/128/xcode.png"><img src="https://findicons.com/files/icons/727/leopard/128/xcode.png"></p>  
 
 ## Introduction  
 An IDE for making iOS and macOS apps. 
