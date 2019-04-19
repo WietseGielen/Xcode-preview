@@ -13,7 +13,6 @@ An IDE for making iOS and macOS apps.
 
 ## Cons
 ### - You need macOS to install Xcode.
-### - You need the latest version of macOS.
 ### - Lacks compatibility.. APPLE APPLE APPLE..
 
 ## Conclusion
