@@ -2,7 +2,7 @@
 <p align="center"><img src="https://findicons.com/files/icons/727/leopard/128/xcode.png"><img src="https://findicons.com/files/icons/727/leopard/128/xcode.png"><img src="https://findicons.com/files/icons/727/leopard/128/xcode.png"><img src="https://findicons.com/files/icons/727/leopard/128/xcode.png"><img src="https://findicons.com/files/icons/727/leopard/128/xcode.png"><img src="https://findicons.com/files/icons/727/leopard/128/xcode.png"></p>  
 
 ## Introduction  
-An IDE for making iOS and macOS apps. 
+An IDE for making Apple apps. (iOS, macOS and tvOS)
 
 ## Pros
 ### + Easy for people who want to make an simple app without programming skills  
