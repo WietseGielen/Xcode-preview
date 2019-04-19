@@ -13,7 +13,6 @@ An IDE for making Apple apps. (iOS, macOS and tvOS)
 
 ## Cons
 ### - You need macOS to install Xcode.
-### - Few possible coding languages
 ### - Lacks compatibility.. APPLE APPLE APPLE..
 
 ## Conclusion
