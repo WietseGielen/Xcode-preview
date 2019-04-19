@@ -16,5 +16,6 @@ An IDE for making Apple apps. (iOS, macOS and tvOS)
 ### - Lacks compatibility.. APPLE APPLE APPLE..
 
 ## Conclusion
-
+It's very useful and even necessary for developing Apple apps.  
+We won't use it for now because it lacks compatibility.
 
